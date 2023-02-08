@@ -1,0 +1,32 @@
+[
+ {
+ "ID": 1,
+ "Price": 31.99,
+ "Title": "Professional C# 7 and .NET Core 2.0"
+ },
+ {
+ "ID": 2,
+ "Price": 29.97,
+ "Title": "Professional Android"
+ },
+ {
+ "ID": 3,
+ "Price": 29.97,
+ "Title": "JavaScript for Web Developers"
+ },
+ {
+ "ID": 4,
+ "Price": 44.95,
+ "Title": "Java How to Program (Early Objects)"
+ },
+ {
+ "ID": 5,
+ "Price": 17.99,
+ "Title": "Beginning Flutter"
+ },
+ {
+ "ID": 6,
+ "Price": 40.99,
+ "Title": "Kotlin Programming: The Bid Nerd Ranch Guide"
+ }
+]
